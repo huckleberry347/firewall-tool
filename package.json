@@ -1,0 +1,14 @@
+{
+    "name": "firewall-tool",
+    "version": "1.0.0",
+    "description": "A tool that can be used to authenticate with firewalls.",
+    "main": "run.js",
+    "scripts": {
+        "test": "run.js"
+    },
+    "dependencies": {
+        "request": "^2.67.0"
+    },
+    "author": "huckleberry347",
+    "license": "ISC"
+}
